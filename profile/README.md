@@ -6,7 +6,6 @@ Our website is: https://httk.org/
 Our main code repository is: https://github.com/httk/httk
 
 To aid the organization of our repositories, they are divided over three GitHub organizations:
-- [httk](https://github.com/httk): our primary organization with the main httk repository and various libraries, tools, and helpers for activites and research associated with *httk*. 
-  This organization hosts the [httk main code repository](https://github.com/httk/httk), which probably is the only thing relevant to most users of *httk*.
+- [httk](https://github.com/httk): our primary organization with the main [httk repository](https://github.com/httk/httk) and various libraries, tools, and helpers for activites and research associated with *httk*. 
 - [httk-system](https://github.com/httk-system): software and tools for system and workstation administration that we use to manage our servers and work computers.
 - [httk-web](https://github.com/httk-system): the repositories we use to manage all parts of the https://httk.org/ website.
